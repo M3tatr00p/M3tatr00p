@@ -37,7 +37,7 @@
 
 ---
 
-## Known Skill
+## Known Skill :
 
    <img align="left" alt="pentester" width="66px" src="https://user-images.githubusercontent.com/52278696/132985491-84400be3-bdfe-4233-ae18-2d0fbe1a68e8.jpg" />
    <img align="left" alt="bugbounty" width="66px" src="https://user-images.githubusercontent.com/52278696/132985733-8a1aa147-b06b-46be-8e51-aeae7ed8f20e.jpg" />
